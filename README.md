@@ -4,7 +4,7 @@
 ![Alt Text](https://i.imgur.com/MH8chat.gif)
 
 # demo website
-https://daisy-blog.herokuapp.com/articles
+https://daisy-blog.herokuapp.com/
 
 
 # Tools
