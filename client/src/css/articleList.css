@@ -1,0 +1,38 @@
+.ArticleListWrapper {
+	margin-right: 30vh;
+	width: 100%;
+}
+
+.article-Wrapper {
+  margin-bottom: 5vh;
+  border: 1px solid rgb(79, 56, 29);
+  padding: 1% 5% 1% 5%;
+  width: 100%;
+}
+
+.article-title {
+	margin: 0 auto;
+	color: rgb(79, 56, 29);
+  font-size: 8vh;
+  margin-bottom: 2vh;
+}
+
+.article-content {
+  font-weight: 100;
+  color: rgb(114, 114, 114);
+}
+
+ul {
+	text-align: left;
+}
+
+li {
+	list-style-type: none;
+	margin-bottom: 3vh;
+}
+
+.read-link {
+  color: rgb(79, 56, 29);
+  font-size: 2vh;
+  
+}

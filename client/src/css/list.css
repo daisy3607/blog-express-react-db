@@ -1,0 +1,29 @@
+.ListBarWrapper {
+  width: 20%;
+  height: 100%;
+  
+  background-color: rgb(29, 29, 29);
+}
+
+.ListTitle {
+  margin-top: 2vh;
+  font-size: 5vh;
+  color: white;
+}
+
+.Listlist {
+  height: 100vh;
+  padding-left: 0;
+}
+
+.art {
+  text-align: center;
+  list-style-type: none;
+}
+
+.titleName {
+  font-size: 3vh;
+  font-weight: 100;
+  
+}
+

@@ -1,0 +1,5 @@
+.bottom-page {
+  display: flex;
+  flex-direction: row;
+  height: 200vh;
+}
