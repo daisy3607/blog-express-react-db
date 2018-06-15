@@ -1,5 +1,12 @@
 # blog-express-react-db
 
+
+![Alt Text](https://i.imgur.com/MH8chat.gif)
+
+# demo website
+https://daisy-blog.herokuapp.com/articles
+
+
 # Tools
 - front-end: React.js (create-react-app)
 - back-end: Express.js
