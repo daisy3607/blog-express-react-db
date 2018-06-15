@@ -1,0 +1,28 @@
+{
+    "name": "blog",
+    "version": "1.0.0",
+    "main": "server/server.js",
+    "license": "MIT",
+    "scripts": {
+      "start": "babel-node server/server.js --presets env",
+      "heroku-postbuild": "cd client && npm install && npm run build",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "description": "",
+    "dependencies": {
+      "babel-preset-env": "^1.7.0",
+      "babel-preset-stage-0": "^6.24.1",
+      "body-parser": "^1.18.3",
+      "cuid": "^2.1.1",
+      "express": "^4.16.3",
+      "limax": "^1.6.0",
+      "mongoose": "^5.1.4",
+      "npm": "^6.1.0",
+      "sanitize-html": "^1.18.2"
+    },
+    "devDependencies": {
+      "babel-cli": "^6.26.0"
+    }
+  }
+  
